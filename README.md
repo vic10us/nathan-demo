@@ -9,3 +9,7 @@ function() {
     return x;
 }
 ```
+
+```html
+<button onclick='Clicked();'>Click Me!</button>
+```
